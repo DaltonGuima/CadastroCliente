@@ -1,5 +1,25 @@
 {
   "dependencies": {
-    "express": "^4.18.1"
-  }
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "sha1": "^1.1.1"
+  },
+  "name": "cadastrocliente-1",
+  "description": "npm install nodemon -g",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaltonGuima/CadastroCliente.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaltonGuima/CadastroCliente/issues"
+  },
+  "homepage": "https://github.com/DaltonGuima/CadastroCliente#readme"
 }
